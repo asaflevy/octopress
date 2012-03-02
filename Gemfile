@@ -16,5 +16,6 @@ gem 'thin'
 
 group :development do
   gem 'rb-fsevent'
+  gem 'heroku'
 end
 
